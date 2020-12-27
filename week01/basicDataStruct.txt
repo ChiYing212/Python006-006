@@ -1,0 +1,30 @@
+python基本数据类型
+    一. 布尔型
+        a = True
+        b = False
+    二. 数值型
+        1.int
+            a = 10
+            b = 0xA6
+        2.float
+            a = 10.2
+        3.complex
+            a = 1+2j
+    三. 序列型
+        1.string
+            a = "asbv"
+        2.list
+            a = ['1','2']
+        3.tuple
+            a = ("a", "b")
+    四. 集合
+        1.dict
+            a = {"key1":"value1", "key2":"value2"}
+    五.None
+            a = None
+    六.函数
+        定义：
+        def functionA(paramlist):
+            return 
+        调用：
+        functionA(paramlist)
